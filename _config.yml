@@ -15,6 +15,7 @@ cover: assets/images/blog-cover.jpg
 #logo: assets/images/blog-icon.png
 #logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
+CNAME: blog.trentnovelly.com
 
 # Social info
 navigation: True # show the navbar links
